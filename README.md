@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavinda Sandaruwan</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=it20600952&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kavindasandaruwan-00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🚀 About Me  
